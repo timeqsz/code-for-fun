@@ -1,1 +1,0 @@
-ispalindrome(L):- reverse(L,L).
